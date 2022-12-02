@@ -2,10 +2,10 @@
 
 T2TRG virtual summary meeting 
 
-**Time:** Monday, December 12th, 15:00-17:00 UTC<br>
+**Time:** Monday, December 12th, 15:30-17:30 UTC<br>
 
 Local time in various locations:<br>
-https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+summary+meeting&iso=20221212T15&p1=1440&ah=2<br>
+https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+summary+meeting&iso=20221212T1530&p1=1440&ah=2<br>
 
 
 ## Logistics
@@ -24,16 +24,16 @@ Please contact the [chairs][] for any changes required.
 
 | Time (UTC) | Who                         | Subject                                                                                                         | Docs                                                                                   |
 | ---------- | --------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 15:00      | Chairs / draft authors      | Intro, RG status, upcoming meetings and activities                                                              | [t2trg-rest-iot][restiot] [t2trg-iot-edge][iot-edge] [t2trg-secure-bootstrapping][sec] |
-| 15:10      | Göran Selander              | SECCORE update                                                                                                  |                                                                                        |
-| 15:20      | John Mattsson               | Amplification attacks using CoAP                                                                                | [mattsson-t2trg-amplification-attacks][coap-amp]                                       |
-| 15:40      | Michael Richardson          | Update on "A Taxonomy of operational security considerations for manufacturer installed keys and Trust Anchors" | [richardson-t2trg-idevid-considerations][idevid]                                       |
-| 15:45      | Michael Koster              | OneDM and iotschema.org update                                                                                  |                                                                                        |
-| 15:55      | Carsten Bormann             | SDF update and status                                                                                           |                                                                                        |
-| 16:05      | Jan Romann                  | SDF/WoT conversion                                                                                              |                                                                                        |
-| 16:25      | Ale Jarabo Peñas / Bin Xiao | Knowledge graphs for Digital Twins based on SDF                                                                 |                                                                                        |
-| 16:55      | Chairs                      | Wrap-up                                                                                                         |                                                                                        |
-| 17:00      | Chairs                      | end of meeting                                                                                                  |                                                                                        |
+| 15:30      | Chairs / draft authors      | Intro, RG status, upcoming meetings and activities                                                              | [t2trg-rest-iot][restiot] [t2trg-iot-edge][iot-edge] [t2trg-secure-bootstrapping][sec] |
+| 15:40      | Göran Selander              | SECCORE update                                                                                                  |                                                                                        |
+| 15:50      | John Mattsson               | Amplification attacks using CoAP                                                                                | [mattsson-t2trg-amplification-attacks][coap-amp]                                       |
+| 16:10      | Michael Richardson          | Update on "A Taxonomy of operational security considerations for manufacturer installed keys and Trust Anchors" | [richardson-t2trg-idevid-considerations][idevid]                                       |
+| 16:15      | Michael Koster              | OneDM and iotschema.org update                                                                                  |                                                                                        |
+| 16:25      | Carsten Bormann             | SDF update and status                                                                                           |                                                                                        |
+| 16:35      | Jan Romann                  | SDF/WoT conversion                                                                                              |                                                                                        |
+| 16:55      | Ale Jarabo Peñas / Bin Xiao | Knowledge graphs for Digital Twins based on SDF                                                                 |                                                                                        |
+| 17:25      | Chairs                      | Wrap-up                                                                                                         |                                                                                        |
+| 17:30      | Chairs                      | end of meeting                                                                                                  |                                                                                        |
 
 
 
