@@ -10,7 +10,8 @@ https://www.timeanddate.com/worldclock/fixedtime.html?msg=T2TRG+summary+meeting&
 
 ## Logistics
 
-Meetecho: https://ws.conf.meetecho.com/conference/?short=524f2439-4aed-46de-9ea9-f9f88e80de14
+Meetecho: **NEW LINK**: https://meetings.conf.meetecho.com/interim/?short=87d786a7-c3f3-4c8f-abc7-54567d422ed3
+
 
 ## Materials
 
