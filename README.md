@@ -14,9 +14,9 @@ Meetecho: https://ws.conf.meetecho.com/conference/?short=524f2439-4aed-46de-9ea9
 
 ## Materials
 
-Slides: TBD
+Slides: https://datatracker.ietf.org/meeting/interim-2022-t2trg-03/session/t2trg
 
-Notes: TBD
+Notes: https://notes.ietf.org/notes-ietf-interim-2022-t2trg-03-t2trg
 
 ## Draft agenda
 
