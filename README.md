@@ -15,9 +15,9 @@ Meetecho: **NEW LINK**: https://meetings.conf.meetecho.com/interim/?short=87d786
 
 ## Materials
 
-Slides: https://datatracker.ietf.org/meeting/interim-2022-t2trg-03/session/t2trg
+Slides: https://datatracker.ietf.org/meeting/interim-2022-t2trg-04/session/t2trg
 
-Notes: https://notes.ietf.org/notes-ietf-interim-2022-t2trg-03-t2trg
+Notes: https://notes.ietf.org/notes-ietf-interim-2022-t2trg-04-t2trg
 
 ## Draft agenda
 
